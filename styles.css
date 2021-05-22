@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #D3D3D3;
+
+
+}
+
+.element {
+    width: 690px;
+    height: 660px;
+    margin: 20px auto;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 20px;
+   
+}
+
+
+#create {
+    width: 620px;
+    height: 70px;
+    margin: 20px auto;
+    background-color: #D3D3D3;  
+    position: relative; 
+    top: 20px;
+    font-size: 11px;
+    color: #696969;
+}
+
+#form-control {
+    width: 620px;
+    height: 130px;
+    font-size: 11px;
+    margin: 20px auto;
+    background-color: #D3D3D3;  
+    position: relative; 
+    top: 20px;
+}
+
+#filters {
+    margin: 0px auto;
+}
+
+.lower {
+    text-indent: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    white-space: normal;
+    width: 620px;
+    height: 350px;
+    margin: 20px auto;
+    background-color: #D3D3D3;  
+    position: relative; 
+    top: 20px; 
+   
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.tasks {
+    margin: 0 auto;
+    padding: 10 px;
+    background-color: white;
+}
+
+.tags {
+    font-size: 24px; 
+}
+
+.button {
+    width: 150px;
+    font-size: 14px;
+    color: white;
+    background-color: #32CD32;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    box-shadow: 0 5px 15px 2 px #000;
+    position: relative;
+    left: 450px;
+    bottom: 22px;
+    
+}
+
+
+
